@@ -51,7 +51,7 @@ Workshop Agenda
 
 16:30 - 17:00  Tea/ Coffee Break
 
-**Thursady 20**
+**Thursday 20**
 
 09:00 - 10:30 Outdoor installation of wireless equipment (Ermanno Pietrosemoli, ICTP)
 
