@@ -9,9 +9,9 @@ Workshop Agenda
 
 10:30 - 11:00 Tea/ Coffee Break
 
-11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
+11:00 - 12:00 Wireless standards for IoT (Ermanno Pietrosemoli, ICTP)
 
-11:00 - 12:00 Wireless standards for IoT (Ermanno Pietrosemoli, ICTP)
+11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
 
 13:00 - 14:00 Lunch
 
