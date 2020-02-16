@@ -6,3 +6,4 @@ By default, the LoRaWAN™ Gateway will work in Wi-Fi AP Mode which means that y
 192.168.230.1
 root
 root
+
