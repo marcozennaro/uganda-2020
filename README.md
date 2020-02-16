@@ -4,12 +4,19 @@ Workshop Agenda
 **Monday 17**
 
 09:00 - 9:30 Opening Ceremony
+
 09:30 - 10:30 Introduction to IoT (Marco Zennaro, ICTP) 
+
 10:30 - 11:00 Tea/ Coffee Break
+
 11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
+
 11:00 - 12:00 Wireless standards for IoT (Ermanno Pietrosemoli, ICTP)
+
 13:00 - 14:00 Lunch
+
 14:00 - 16:30 LAB: Getting started with TTN Gateways (Sebastian Buettrich, NSRC)
+
 16:30 - 17:00 Tea/ Coffee Break
 
 
