@@ -1,0 +1,31 @@
+// function decoder for (lat, lon, alt)
+
+function Decoder(bytes, port) {
+  // see:
+  // https://www.thethingsnetwork.org/docs/devices/bytes.html
+  //
+  var decoded = {};
+  var sign;
+  var intValue;
+  
+  intValue = ((bytes[0]<<16)>>>0) + ((bytes[1]<<8)>>>0) + bytes[2];
+  sign = bytes[0] & (1 << 7);
+  if(sign){
+	// extend sign of a negative 24bit to 32bit (two's complement value)
+    intValue = intValue | 0xFF000000;
+  }
+  decoded.lat = (intValue / 10000.0);
+  
+  intValue = ((bytes[3]<<16)>>>0) + ((bytes[4]<<8)>>>0) + bytes[5];
+  sign = bytes[3] & (1 << 7);
+  if(sign){
+	// extend sign of a negative 24bit to 32bit (two's complement value)
+    intValue = intValue | 0xFF000000;
+  }
+  decoded.lon = (intValue / 10000.0);
+  
+  intValue = ((bytes[6]<<8)>>>0) + bytes[7];
+  decoded.alt = intValue;
+  
+  return decoded;
+}

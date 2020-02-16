@@ -1,0 +1,26 @@
+// function decoder for radio-sensors
+// table of msg fields:
+// table of msg fields:
+// n | Id            | example   | lim. values           | lim rapr.    | n. bytes | start pos.
+// 1 | temperature   | 21.9      | -40.0 C to 85.0 C     | 0 .. 1250    | 2        | 0
+// 2 | altitude      | 118.4     | –698.0 to 11775.0 m   | 0 .. 124730  | 3        | 2
+// n. bytes payload: 5
+// Index range of array: 0..4
+// 
+
+function Decoder(bytes, port) {
+    // Decode an uplink message from a buffer
+    // (array) of bytes to an object of fields.
+    var decoded = {};
+    var intValue;
+
+    intValue = ((bytes[0]<<8)>>>0) + bytes[1];
+    intValue = intValue - 400;
+    decoded.temperature  = (intValue / 10.0);
+
+    intValue = ((bytes[2]<<16)>>>0) + ((bytes[3]<<8)>>>0) + bytes[4];
+    intValue = intValue - 6980;
+    decoded.altitude = (intValue / 10.0);
+
+    return decoded;
+}
