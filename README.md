@@ -3,15 +3,13 @@ Workshop Agenda
 
 **Monday 17**
 
-09:00 - 9:30 Opening Ceremony
+09:00 - 9:30 Opening Ceremony: Julianne Sansa-Otim (Makerere University), Marco Zennaro (ICTP), Steven Huter (NSRC) and Prof. Tonny Oyana (Makerere University)
 
 09:30 - 10:30 Introduction to IoT (Marco Zennaro, ICTP)
 
 10:30 - 11:00 Tea/ Coffee Break
 
-11:00 - 12:00 Wireless standards for IoT (Ermanno Pietrosemoli, ICTP)
-
-11:00 - 12:00 Wireless options for IoT (Ermanno Pietrosemoli, ICTP)
+11:00 - 12:00 Wireless options for IoT (Ermanno Pietrosemoli, ICTP)
 
 11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
 
