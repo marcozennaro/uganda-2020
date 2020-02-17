@@ -5,13 +5,15 @@ Workshop Agenda
 
 09:00 - 9:30 Opening Ceremony
 
-09:30 - 10:30 Introduction to IoT (Marco Zennaro, ICTP) 
+09:30 - 10:30 Introduction to IoT (Marco Zennaro, ICTP)
 
 10:30 - 11:00 Tea/ Coffee Break
 
-11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
+11:00 - 12:00 Wireless standards for IoT (Ermanno Pietrosemoli, ICTP)
 
 11:00 - 12:00 Wireless options for IoT (Ermanno Pietrosemoli, ICTP)
+
+11:00 - 12:00 Getting started with TTN (Sebastian Buettrich, NSRC)
 
 13:00 - 14:00 Lunch
 
@@ -27,7 +29,7 @@ Workshop Agenda
 
 10:30 - 11:00 Tea/ Coffee Break
 
-11:00 - 13:00 LAB: Getting started with Pycom devices (Marco Zennaro, ICTP and Sebastian Buettrich, NSRC) 
+11:00 - 13:00 LAB: Getting started with Pycom devices (Marco Zennaro, ICTP and Sebastian Buettrich, NSRC)
 
 13:00 - 14:00 Lunch
 
@@ -39,11 +41,11 @@ Workshop Agenda
 
 **Wednesday 19**
 
-09:00 - 10:30 Introduction to MQTT and MQTT Lab (Marco Zennaro, ICTP) 
+09:00 - 10:30 Introduction to MQTT and MQTT Lab (Marco Zennaro, ICTP)
 
 10:30 - 11:00 Tea/ Coffee Break
 
-11:00 - 13:00 LAB: RPiDC: a data center in a RPi (Marco Zennaro, ICTP) 
+11:00 - 13:00 LAB: RPiDC: a data center in a RPi (Marco Zennaro, ICTP)
 
 13:00 - 14:00 Lunch
 
@@ -66,7 +68,7 @@ Workshop Agenda
 16:30 - 17:00  Tea/ Coffee Break
 
 
-**Friday 21** 
+**Friday 21**
 
 09:00 - 10:30 IoT Applications (Ermanno Pietrosemoli, ICTP)
 
@@ -81,5 +83,3 @@ Workshop Agenda
 16:00 - 16:30 Closing Ceremony
 
 16:30 - 17:00  Tea/ Coffee Break
-
-
