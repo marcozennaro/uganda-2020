@@ -71,6 +71,7 @@ Workshop Agenda
 **Friday 21**
 
 09:00 - 10:30 IoT Applications (Ermanno Pietrosemoli, ICTP)
+http://wireless.ictp.it/school_2015/presentations/firstweek/nsrc_z1_wsn_sensors_lecture.pdf
 
 10:30 - 11:00 Tea/ Coffee Break
 
