@@ -1,3 +1,5 @@
+![Screenshot](DSC02329.JPG)
+
 Workshop Agenda
 ====
 
